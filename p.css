@@ -7,7 +7,7 @@
 
 
 body {background-color: #e0e0e0;}
-p    {text-align:center;}
+
 h1   {color: White; background-color: #6a1414; text-align:center;}
 .button {
   background-color: #6a1414; 
@@ -22,6 +22,7 @@ h1   {color: White; background-color: #6a1414; text-align:center;}
   -webkit-transition-duration: 0.4s; 
   transition-duration: 0.4s;
   cursor: pointer;
+  font-family: 'Fjalla One','Katibeh', serif;
 }
 .button1 {
   background-color: #6a1414; 
@@ -33,6 +34,7 @@ h1   {color: White; background-color: #6a1414; text-align:center;}
   background-color: white;
   color: #6a1414;
 }
+
 
 
 </style>
